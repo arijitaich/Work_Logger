@@ -25,7 +25,7 @@ def prepend_line(file_name, line):
 r = 1
 while (r==1):
     x = input("Enter response: ")
-    print("Sending...", end="\r")
+    print("Send...", end="\r")
     time.sleep(0.5)
     now2 = datetime.now()
     dt = now2.strftime("%d/%m/%Y %H:%M:%S")
