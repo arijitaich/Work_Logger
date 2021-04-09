@@ -3,7 +3,7 @@ import time
 import os
 
 print("\n")
-print("Welcome to X2Chat")
+print("Welcome to Work Logger")
 print("Version 1.0 launched on 30th March 2021")
 print("Author: Arijit Aich")
 print()
